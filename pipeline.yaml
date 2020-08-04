@@ -1,3 +1,4 @@
+# This pipeline has 2 task added to it , hello and goobye
 apiVersion: tekton.dev/v1beta1
 kind: Pipeline
 metadata:
